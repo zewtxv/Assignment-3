@@ -1,7 +1,7 @@
 // Zeke White
 // zewtxv@umsytem.edu
 //
-#include <iostream>
+#include "Q1.h"
 #include <stack>
 
 using namespace std;
