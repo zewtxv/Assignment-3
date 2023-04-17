@@ -1,0 +1,11 @@
+cmake-build-debug/.ninja_log
+*.cmake
+*.ninja
+*.log
+*.bin
+cmake-build-debug/Assignment_1
+cmake-build-debug/.DS_Store
+*.xml
+.idea/
+cmake-build-debug/
+.DS_Store
